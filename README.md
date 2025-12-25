@@ -10,7 +10,7 @@ Once the library is in use, you will need to create an instance
 
 --------------------------------------------------------------------------------------
 
-set the header["<header>"] of <instance> to <value>
+set the header[["header"]] of <instance> to <value>
 header
 	name of the header:
 	"FROM" sender of the email
